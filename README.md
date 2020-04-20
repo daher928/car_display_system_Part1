@@ -26,4 +26,5 @@ The current repository contains the Android Application of the Display Unit (Rec
 <p>The Transmitter can also be found separately in the following repository: https://github.com/daher928/Transmitter
 </p>
 
+<h2> Part 2 -> https://github.com/daher928/car_display_system_Part1 </h2>
 </html>
